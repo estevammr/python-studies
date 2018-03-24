@@ -1,0 +1,3 @@
+File write by python.
+Another string append.
+The with method.
